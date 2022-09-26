@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FlutterUnityIntegration/Demo/Scenes/NativeScene.unity
+    guid: 93c501e08eb4d4ac2a924b592f00449b
   m_configObjects: {}

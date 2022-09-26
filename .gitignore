@@ -56,6 +56,10 @@ unity/unity_example_flutter/[Bb]uild/
 unity/unity_example_flutter/[Bb]uilds/
 unity/unity_example_flutter/[Ll]ogs/
 unity/unity_example_flutter/[Mm]emoryCaptures/
+unity/unity_example_flutter/Temp/
+android/unityLibrary/build/
+android/unityLibrary/src/
+android/unityLibrary/symbols/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
